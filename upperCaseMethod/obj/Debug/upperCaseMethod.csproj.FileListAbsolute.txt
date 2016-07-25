@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\upperCaseMethod\upperCaseMethod\bin\Debug\upperCaseMethod.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\upperCaseMethod\upperCaseMethod\bin\Debug\upperCaseMethod.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\upperCaseMethod\upperCaseMethod\bin\Debug\upperCaseMethod.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\upperCaseMethod\upperCaseMethod\obj\Debug\upperCaseMethod.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\upperCaseMethod\upperCaseMethod\obj\Debug\upperCaseMethod.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\upperCaseMethod\upperCaseMethod\obj\Debug\upperCaseMethod.pdb
